@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Over 10 Years of experience in business analysis and proven expertise in problem solving and process reengineering many missions’ critical initiatives with my inherit critical thinking skills who wish to take new challenges in new domain areas share innovative ideas and bring value for enterprise. 
 <!--
 **kcdissanayaka/kcdissanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
