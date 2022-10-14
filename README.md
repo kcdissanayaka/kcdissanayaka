@@ -1,6 +1,5 @@
 ### SUMMARY 👋
-Over 10+ years of experience in Business Analysis, and solution designing in large scale enterprise projects, I have expertise in problem-solving and business process reengineering for many mission critical government initiatives. Drive the organization with award winning solutions. With my inherited critical thinking and collaboration skills, I wish to take on new challenges in new domain areas and share innovative ideas that bring value to the organization and its stakeholders. 
-![image](https://user-images.githubusercontent.com/115152521/194373621-9e01dfed-fb9e-4a86-bae9-8fae3e99adf8.png)
+
 
 <!--
 **kcdissanayaka/kcdissanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
